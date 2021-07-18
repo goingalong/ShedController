@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DocumentSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FindHistory>
+    <string>##</string>
+    <string>temp</string>
+    <string>toggle_light</string>
+    <string>toggle_llight</string>
+    <string>toggle light</string>
+    <string>light_state</string>
+  </FindHistory>
+  <ReplaceHistory />
+  <ReplaceSearchHistory />
+  <Bookmarks />
+  <BreakPoints />
+  <SelectedLine>0</SelectedLine>
+  <SelectedColumn>0</SelectedColumn>
+  <CaretOffset>6828</CaretOffset>
+  <BottomVerticalSplitterPosition>0</BottomVerticalSplitterPosition>
+  <TopVerticalSplitterPosition>0</TopVerticalSplitterPosition>
+  <HorizontalSplitterPosition>0</HorizontalSplitterPosition>
+</DocumentSettings>
