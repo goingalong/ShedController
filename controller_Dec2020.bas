@@ -257,6 +257,7 @@ Notes:
 
 1.Light now steady on while door is moving. Dec 2020.
 2.Takes input from door/shutter warning detector to force the light on if the door is open and it is dark
+	this state is cleared only by bringing down the shutter - which resets the light channel on completion.
 
 
 #endrem
